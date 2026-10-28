@@ -29,8 +29,11 @@ This project is showcased here as part of my web development portfolio.
 ### Properties
 ![Properties](./the-best-land-properties.png)
 
+### Services
+![Services](the-best-land-services.png)
+
 ### Mobile View
-![Mobile View](./the-best-land-mobile.png)
+![Mobile View](./the-best-land-mobile.jpeg)
 Technologies used in this project include those applied during development.
 
 <!-- Add only the technologies you personally used -->🖼️ Project Preview
