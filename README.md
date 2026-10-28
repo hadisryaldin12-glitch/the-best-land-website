@@ -21,7 +21,16 @@ This project is showcased here as part of my web development portfolio.
 - Responsive website design
 
 🛠️ Technologies
+## 🖼️ Project Preview
 
+### Homepage
+![Homepage](./the-best-land-homepage.png)
+
+### Properties
+![Properties](./the-best-land-properties.png)
+
+### Mobile View
+![Mobile View](./the-best-land-mobile.png)
 Technologies used in this project include those applied during development.
 
 <!-- Add only the technologies you personally used -->🖼️ Project Preview
